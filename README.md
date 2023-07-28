@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Neha Gour</h1>
 <h3 align="center">Passionately Pioneering Semiconductor Solutions as an Electronics Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehagour-lab&label=Profile%20views&color=0e75b6&style=flat" alt="nehagour-lab" /> </p>
+
 - 🌱 I’m currently learning **Embedded System**
 
 - 📫 How to reach me **nehagour309@gmail.com**
 
-- 📄 Know about my experiences [https://mysacstate-my.sharepoint.com/:b:/r/personal/nehagour_csus_edu/Documents/Desktop/NEHA_GOUR_Resume.pdf?csf=1&web=1&e=p5rXd2](https://mysacstate-my.sharepoint.com/:b:/r/personal/nehagour_csus_edu/Documents/Desktop/NEHA_GOUR_Resume.pdf?csf=1&web=1&e=p5rXd2)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1r4DglhfNDvKBInU0z7bqgnu4ZYCYVWnY/view?usp=sharing](https://drive.google.com/file/d/1r4DglhfNDvKBInU0z7bqgnu4ZYCYVWnY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
