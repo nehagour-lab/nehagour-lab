@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehagour-lab&label=Profile%20views&color=0e75b6&style=flat" alt="nehagour-lab" /> </p>
 
-- 🌱 I’m currently learning **Embedded System**
+- 🌱 I’m learning 
 
 - 📫 How to reach me **nehagour309@gmail.com**
 
