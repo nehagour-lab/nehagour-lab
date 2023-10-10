@@ -6,11 +6,11 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehagour-lab&label=Profile%20views&color=0e75b6&style=flat" alt="nehagour-lab" /> </p>
 
-- 🌱 I’m learning 
+- 🌱 I’m currently learning Machine Learning.
 
 - 📫 How to reach me **nehagour309@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r4DglhfNDvKBInU0z7bqgnu4ZYCYVWnY/view?usp=sharing](https://drive.google.com/file/d/11QptapVDf97r9BnWpvtjbzLNaDuoNLvA/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
