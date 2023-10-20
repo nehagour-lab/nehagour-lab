@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nehagour309@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1K0W2cYAYtEMbCG7omz1o_jwk15HZ0_FJ/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
