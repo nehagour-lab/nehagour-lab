@@ -2,15 +2,13 @@
 
 
 <h1 align="center">👋, I'm Neha Gour</h1>
-<h3 align="center">Passionately Pioneering Semiconductor Solutions as an Electronics Engineer</h3>
+<h3 align="center">Passionately Pioneering Semiconductor Solutions with Dynamic Intersection of Data Analytics</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehagour-lab&label=Profile%20views&color=0e75b6&style=flat" alt="nehagour-lab" /> </p>
 
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently doing case studies as a data analyst to strong my fundamentals.
 
 - 📫 How to reach me **nehagour309@gmail.com**
-
-- 📄 Know about my experiences (https://drive.google.com/file/d/1K0W2cYAYtEMbCG7omz1o_jwk15HZ0_FJ/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
